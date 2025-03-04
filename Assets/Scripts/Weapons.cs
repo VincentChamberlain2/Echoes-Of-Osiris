@@ -6,7 +6,7 @@ public class Weapons : MonoBehaviour
 {
     
 }
-// Default weapon for Mummy
+// Default weapon for Cat
 public class Stratch { 
     int attackRange = 1;
     int damage = 5;
