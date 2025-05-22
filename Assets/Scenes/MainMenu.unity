@@ -864,7 +864,7 @@ MonoBehaviour:
   quitMenu: {fileID: 520702661}
   playButton: {fileID: 1826145363}
   exitButton: {fileID: 963391510}
-  gotoThisScene: DemoScene
+  gotoThisScene: Presentation3
 --- !u!4 &1575547680
 Transform:
   m_ObjectHideFlags: 0
